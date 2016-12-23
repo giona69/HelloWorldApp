@@ -17,4 +17,8 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="MioTheme" parent="AppTheme" >
+        <item name="colorPrimary">@color/miocolore</item>
+    </style>
+
 </resources>
