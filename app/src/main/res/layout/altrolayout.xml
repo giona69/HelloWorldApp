@@ -13,4 +13,19 @@
         app:srcCompat="@android:drawable/arrow_up_float"
         android:id="@+id/floatingActionButton2"
         android:layout_weight="0.00" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_keyboard_voice_black_24dp"
+        android:id="@+id/imageView"
+        android:layout_weight="0.00" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_keyboard_voice_black_24dp"
+        android:id="@+id/imageButton"
+        android:layout_weight="0.00"
+        android:tint="@color/colorAccent" />
 </LinearLayout>

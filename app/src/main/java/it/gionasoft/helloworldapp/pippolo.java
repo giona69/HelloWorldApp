@@ -11,5 +11,9 @@ public class pippolo {
     }
 
     private pippolo() {
+
+        Resources res = getResources();
+        Drawable drawable = res.getDrawable(R.drawable.myimage);
+
     }
 }
