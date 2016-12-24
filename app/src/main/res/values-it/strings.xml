@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Ciao Mondo</string>
     <string name="action_settings">Configurazioni</string>
+    <string name="bottone_mio">mamma</string>
 </resources>
